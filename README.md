@@ -1,5 +1,5 @@
 # Meth_deconvo
-Cell type deconvolution from methylation data.
+Cell type deconvolution from methylation data. <br>
 Using methylation atlas from reference_samples.csv, cell type proportion was identified from bulk methylation result in bulk_samples.csv.
 Folder scripts contains:
 - bash script to run deconvolve.py (ViDang_meth_deconvo.bash)
