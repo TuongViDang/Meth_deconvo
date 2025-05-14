@@ -4,5 +4,5 @@ Using methylation atlas from reference_samples.csv, cell type proportion was ide
 Folder results contains the outputs of running deconvolve.py. <br>
 Folder scripts contains:
 - bash script to run deconvolve.py (ViDang_meth_deconvo.bash)
-- python code for downstream analysis (ViDang_downstream_analysis.ipynb)
+- python code as jupyter notebook for downstream analysis (ViDang_downstream_analysis.ipynb)
 - Notebook as html file (ViDang_downstream_analysis.html)
